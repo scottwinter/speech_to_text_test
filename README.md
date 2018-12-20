@@ -1,16 +1,13 @@
 # speech_to_text_test
 
-A new Flutter application.
+A test of the speech_recognition plugin for Flutter.
+https://pub.dartlang.org/packages/speech_recognition
 
-## Getting Started
+Also using the permissions plugin to handle the microphone permissions at runtime.
+https://pub.dartlang.org/packages/permission
 
-This project is a starting point for a Flutter application.
+This code is from the speech_recognition plugin Basic Example app at:
+https://github.com/rxlabz/speech_recognition/tree/master/example
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+I added the code for the permissions plugin from:
+https://pub.dartlang.org/packages/permission#-example-tab-
